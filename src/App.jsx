@@ -1,7 +1,7 @@
 import React from 'react';
-import { HelloWorld } from './components/HelloWorld';
-import viteLogo from './assets/logo/vite.svg';
-import reactLogo from './assets/logo/react.svg';
+import { HelloWorld } from '@/components/HelloWorld';
+import viteLogo from '@/assets/logo/vite.svg';
+import reactLogo from '@/assets/logo/react.svg';
 import './App.scss';
 export const App = () => {
   return (

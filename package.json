@@ -5,6 +5,7 @@
   "repository": "https://github.com/tanishraj/starter-template-vite-react.git",
   "author": "Tanish Raj <learn.tanishraj@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
